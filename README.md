@@ -1,4 +1,6 @@
 # Tumor Segmentation for Brain & Breast: Deep Learning Approach
+<img width="929" height="770" alt="image" src="https://github.com/user-attachments/assets/40d17a0b-d044-4d4f-99a7-3aa8bbd528f9" />
+
 
 ## 📌 Project Overview
 
