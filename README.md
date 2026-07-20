@@ -1,9 +1,9 @@
 # Tumor Segmentation for Brain & Breast using Deep Learning
-a deep learning framework for automatic tumor segmentation from medical images. The project focuses on two important medical imaging modalities:
+A Deep learning framework for automatic tumor segmentation from medical images. The project focuses on two important medical imaging modalities:
 
 - Brain Tumor Segmentation using MRI images
 - Breast Tumor Segmentation using Ultrasound images
-- <p align="center">
+ <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
