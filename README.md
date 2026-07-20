@@ -1,10 +1,9 @@
 # Tumor Segmentation for Brain & Breast using Deep Learning
+a deep learning framework for automatic tumor segmentation from medical images. The project focuses on two important medical imaging modalities:
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/40d17a0b-d044-4d4f-99a7-3aa8bbd528f9" width="900">
-</p>
-
-<p align="center">
+- Brain Tumor Segmentation using MRI images
+- Breast Tumor Segmentation using Ultrasound images
+- <p align="center">
 
 ![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -16,20 +15,16 @@
 
 </p>
 
----
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/40d17a0b-d044-4d4f-99a7-3aa8bbd528f9" width="900">
+</p>
+
 
 # Overview
-
-This repository presents a deep learning framework for automatic tumor segmentation from medical images. The project focuses on two important medical imaging modalities:
-
-- Brain Tumor Segmentation using MRI images
-- Breast Tumor Segmentation using Ultrasound images
 
 The objective is to accurately delineate tumor regions, reducing the burden of manual annotation while supporting clinicians in diagnosis and treatment planning.
 
 The proposed approach employs **U-Net++ with a pretrained ResNet34 encoder**, and compares its performance with **U-Net** and **DeepLabV3**.
-
----
 
 # Features
 
@@ -272,21 +267,7 @@ scikit-learn>=1.0.0
 albumentations>=1.1.0
 ```
 
----
 
-# Main Libraries
-
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![Torchvision](https://img.shields.io/badge/Torchvision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/)
-[![Segmentation Models PyTorch](https://img.shields.io/badge/Segmentation_Models_PyTorch-009688?style=for-the-badge)](https://github.com/qubvel-org/segmentation_models.pytorch)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
-[![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)](https://opencv.org/)
-[![Albumentations](https://img.shields.io/badge/Albumentations-00C853?style=for-the-badge)](https://albumentations.ai/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://matplotlib.org/)
-[![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-
----
 
 # Results
 
@@ -330,9 +311,6 @@ Master's Student in Web Intelligence & Data Science
 
 ---
 
-# License
-
-This project is released under the **MIT License**.
 
 ---
 
