@@ -309,11 +309,6 @@ Master's Student in Web Intelligence & Data Science
 - Deep Learning
 - Medical Image Analysis
 
----
-
-
----
-
 # Citation
 
 If you use this project in your research, please cite:
